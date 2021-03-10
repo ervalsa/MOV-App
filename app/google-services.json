@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466247137304",
+    "project_id": "mov-app-c50a6",
+    "storage_bucket": "mov-app-c50a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466247137304:android:b1cb806551485f2fb86b6d",
+        "android_client_info": {
+          "package_name": "com.ervalsa.mov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466247137304-8m0je180k99pto8mt4h7g68mi73uoqih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmiO10lGrX2m6ZLwWytC3jyRGev9BmiAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466247137304-8m0je180k99pto8mt4h7g68mi73uoqih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
